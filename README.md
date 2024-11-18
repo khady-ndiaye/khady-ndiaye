@@ -1,4 +1,4 @@
-<img src="//.img.png" alt="">
+<img src="https://github.com/khady-ndiaye/khady-ndiaye/blob/main/img.png" alt="">
 
 <!--
 ## Hi there 👋
