@@ -1,4 +1,4 @@
-<img src="https://github.com/khady-ndiaye/khady-ndiaye/blob/main/datascience.png?raw=true">
+<img src="">
 
 <!--
 ## Hi there 👋
