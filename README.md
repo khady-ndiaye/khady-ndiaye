@@ -1,4 +1,4 @@
-<img src="dataimage.png">
+<img src="dataimage.png" width 50%>
 
 <!--
 ## Hi there 👋
