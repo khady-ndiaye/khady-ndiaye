@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # 👋, I'm khady
 ## 💫 About Me:
-Titulaire d'une licence en Mathématiques,<br>je suis actuellement en formation à la plateforme du numerique à Marseille<br>j'aspire à me specialiser en IA en vue de devenir DATA Ingenieer
+Titulaire d'une licence en Mathématiques,<br>je suis actuellement en formation à la plateforme du numerique à Marseille<br>j'aspire à me specialiser en IA en vue de devenir DATA Scientist
 
 
 # 💻 Tech Stack:
