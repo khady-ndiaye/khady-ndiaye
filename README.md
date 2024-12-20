@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # 👋, I'm khady
 ## 💫 About Me:
-Titulaire d'une licence en Mathématiques,<br>je suis actuellement en formation à la plateforme du numerique à Marseille<br>j'aspire à me specialiser en IA en vue de devenir DATA Scientist
+Étudiant passionné en IA, je suis en pleine exploration des domaines, de l'analyse de données, du Machine Learning et de la statistique. Avec un niveau master en statistiques et économétrie, je me concentre actuellement sur l'apprentissage de Python, R et SQL pour développer mes compétences pratiques. Mon objectif est de transformer les données en informations utiles pour résoudre des problèmes complexes et soutenir la prise de décisions stratégiques.
 
 
 # 💻 Tech Stack:
